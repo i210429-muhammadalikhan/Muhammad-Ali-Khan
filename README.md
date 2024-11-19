@@ -25,7 +25,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/muhammad-ali-khan-34b311220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad ali khan" height="30" width="40" /></a>
 <a href="https://instagram.com/ali._.khan05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ali._.khan05" height="30" width="40" /></a>
-<a href="https://medium.com/@alikhan.mak05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali khan" height="30" width="40" /></a>
+<a href="https://medium.com/@alikhan.mak05/understanding-docker-images-and-containers-a-beginners-guide-7fe63769dcd0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ali khan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
