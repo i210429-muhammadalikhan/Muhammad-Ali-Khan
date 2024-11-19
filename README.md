@@ -5,6 +5,8 @@
 
 - 🔭 I’m currently working on [Various Mobile and Web Projects](https://github.com/i210429-muhammadalikhan?tab=repositories)
 
+- 📝 Get to see my [DevOps Crash Course ](https://github.com/i210429-muhammadalikhan/DevOps-Crash-Course)
+
 - 🌱 I’m currently learning **MERN Stack and DevOps Core Concepts**
 
 - 👨‍💻 All of my projects are available at [https://github.com/i210429-muhammadalikhan?tab=repositories](https://github.com/i210429-muhammadalikhan?tab=repositories)
